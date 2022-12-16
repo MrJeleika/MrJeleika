@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Denis Proskura</h1>
+<h1 align="center">Hi 👋, I'm Denys Proskura</h1>
 <h3 align="center">Frontend developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **React, Redux, NextJS**
